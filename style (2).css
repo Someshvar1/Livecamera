@@ -1,0 +1,53 @@
+body{
+    text-align:center;
+    border-radius:30px;
+    margin:100px;
+    border:maroon ridge 4px;
+    background-color: mediumseagreen;
+}
+html{
+    background-color: navy;
+}
+.header_div{
+    background:white;
+    color:#ce2700;
+     border-radius:30px;
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background:#02E35C;
+    padding:10px;
+    margin-top:15px;
+    border:3px solid white;
+    margin-left:350px;
+    border-radius:30px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div label{
+   background:white;
+   width:310px;
+   padding:10px;
+   margin-bottom: 0px;
+   box-shadow:5px 5px 18px white;
+}
+#camera{
+    border:2px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+    text-align: center;
+}
+.main_div button{
+    width:310px;
+    font-size:16px;
+    box-shadow:5px 5px 18px white;
+    border:1px solid;
+}
+#snapshot{
+    border:2px solid white;
+    width:310px;
+    height:300px;
+    box-shadow:5px 5px 18px white;
+}
